@@ -4,7 +4,7 @@ The development of the program has just started, and it must be stated that it l
 
 Reference
 
-David Moeljadi and Zakariya Pamuji Aminullah. 2020. Building the Old Javanese Wordnet. In Proceedings of the Twelfth Language Resources and Evaluation Conference, pages 2940–2946, Marseille, France. European Language Resources Association. [https://github.com/davidmoeljadi/OJW]
+David Moeljadi and Zakariya Pamuji Aminullah. 2020. "Building the Old Javanese Wordnet". In: Proceedings of the Twelfth Language Resources and Evaluation Conference, pages 2940–2946, Marseille, France. European Language Resources Association. [https://github.com/davidmoeljadi/OJW]
 
 Zoetmulder, P.J. and Robson, S.O. 1982. Old Javanese-English Dictionary. M. Nijhoff.
 
