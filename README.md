@@ -6,6 +6,6 @@ Reference
 
 David Moeljadi and Zakariya Pamuji Aminullah. 2020. "Building the Old Javanese Wordnet". In: Proceedings of the Twelfth Language Resources and Evaluation Conference, pages 2940–2946, Marseille, France. European Language Resources Association. [https://github.com/davidmoeljadi/OJW]
 
-Zoetmulder, P.J. and Robson, S.O. 1982. Old Javanese-English Dictionary. M. Nijhoff.
+Zoetmulder, P.J. and Robson, S.O. 1982. "Old Javanese-English Dictionary". M. Nijhoff.
 
 Zurbuchen, M.S. (1976) "Introduction to Old Javanese Language and Literature: A Kawi Prose Anthology". The Michigan Series in South and Southeast Asian Languages and Linguistics No.3, 1976.
